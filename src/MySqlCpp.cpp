@@ -33,6 +33,7 @@ void MySqlCpp::disconnect() {
 }
 void MySqlCpp::simpleSqlQuery() {
 	char *sqlQuery = "SELECT * FROM users";
+	//Customize your code here.
 	printf("[MySqlCpp]->simple query:%s\n", sqlQuery);
 	this->connect();
 	//

@@ -1,2 +1,2 @@
 # MySQLWrapper
-Yet another wrapper class for MySQL Connector/C++.
+Yet another simple  wrapper class(c++) for MySQL Connector/C++.
