@@ -9,9 +9,9 @@
 #define MYSQLCPP_H_
 
 //
-#define IF_MYSQL_SERVER "tcp://192.168.2.2:3306"
-#define IF_MYSQL_USER "root"
-#define IF_MYSQL_PWD "ytlf123456"
+#define IF_MYSQL_SERVER "tcp://192.168.1.175:3306"
+#define IF_MYSQL_USER "username"
+#define IF_MYSQL_PWD "password"
 #define IF_MYSQL_DB "test"
 
 /*
